@@ -13,3 +13,4 @@ name = "play_ps_with_rust"
 path = "bin/play_ps_with_rust.rs"
 
 [dependencies]
+# TODO: Let's practice `clap` as well
