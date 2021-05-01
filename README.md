@@ -49,7 +49,7 @@ project
 
 ### Main Branches
 
-The main repository will always hold a branche:
+The main repository will always hold a branch:
 
 * `master`
 
