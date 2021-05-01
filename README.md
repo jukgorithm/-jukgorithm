@@ -42,7 +42,7 @@ project
     <tr>
       <td>Working</td>
       <td>userName</td>
-      <td>Solving problems and PR to `master`</td>
+      <td>Solving problems and PR to master</td>
     </tr>
   </tbody>
 </table>
