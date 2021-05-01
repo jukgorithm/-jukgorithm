@@ -42,7 +42,7 @@ project
     <tr>
       <td>Working</td>
       <td>userName</td>
-      <td>Accepts merges from Features/Issues</td>
+      <td>Solving problems and PR to `master`</td>
     </tr>
   </tbody>
 </table>
@@ -57,4 +57,4 @@ The main branch should be considered `origin/master` and will be the main branch
 
 ## Working Branches
 
-Supporting branches are used to aid parallel solving problems between team members. Unlike the main branches, team member have to solve problem on working branch which is named member alias
+Supporting branches are used to aid parallel solving problems between team members. Unlike the main branches, team member have to solve problem on working branch which is named member alias. Please make PR to `master` from `working branch`.
