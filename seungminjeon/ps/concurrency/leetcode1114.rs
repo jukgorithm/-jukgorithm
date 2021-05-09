@@ -37,8 +37,8 @@ impl Foo {
 
 #[cfg(test)]
 mod test {
-    use std::{thread::sleep, time::Duration};
     use crossbeam_utils::thread;
+    use std::{thread::sleep, time::Duration};
 
     #[test]
     fn solve() {
