@@ -5,8 +5,9 @@ pub fn main() {
     let input = string_to_vec_i32(get_line());
 
     // calculate
-    let output = misc::leetcode1480::solve(input);
-    for (_ix, value) in output.iter().enumerate() {
-        print!("{}, ", value);
-    }
+    let output = misc::leetcode35::solve(input, 2);
+    // for (_ix, value) in output.iter().enumerate() {
+    //     print!("{}, ", value);
+    // }
+    println!("{}", output);
 }
